@@ -13,7 +13,6 @@ chardet = "==3.0.4"
 click = "==7.1.2"
 coverage = "==5.1"
 cryptography = "==2.9.2"
-feedparser = "==5.2.1"
 gender-guesser = "==0.4.0"
 idna = "==2.9"
 itsdangerous = "==1.1.0"
@@ -44,6 +43,9 @@ Flask = "==1.1.2"
 Jinja2 = "==2.11.2"
 MarkupSafe = "==1.1.1"
 Werkzeug = "==1.0.1"
+mutpy = "*"
+feedparser = "*"
+eatlocal = "*"
 
 [dev-packages]
 

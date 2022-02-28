@@ -1,3 +1,4 @@
+# requirements from: https://github.com/pybites/platform-dependencies
 attrs==19.3.0
 beautifulsoup4==4.8.1
 bs4==0.0.1
@@ -39,3 +40,7 @@ urllib3==1.25.9
 wcwidth==0.1.9
 Werkzeug==1.0.1
 xlrd==1.2.0
+
+# own requirements
+MutPy>=0.6.1
+eatlocal>=0.7.2

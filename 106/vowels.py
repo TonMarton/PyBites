@@ -1,4 +1,5 @@
 from typing import Tuple, Optional
+import re
 
 TEXT = """
 The Zen of Python, by Tim Peters
@@ -28,6 +29,7 @@ VOWELS = 'aeiou'
 
 
 def strip_vowels(text: Optional[str] = TEXT) -> Tuple[str, int]:
+    '''
     count = 0
     textList = list(text)
     for i, c in enumerate(textList):
@@ -36,3 +38,5 @@ def strip_vowels(text: Optional[str] = TEXT) -> Tuple[str, int]:
             textList[i] = '*'
             count += 1
     return (''.join(textList), count)
+    '''
+    return re.subn('[{VOWELS}]', '*', text)

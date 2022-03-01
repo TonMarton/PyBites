@@ -1,0 +1,4 @@
+[
+  "test_belts.py::test_get_total_points_given_belts",
+  "test_belts.py::test_get_total_points_more_belts"
+]

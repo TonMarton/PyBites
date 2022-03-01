@@ -1,4 +1,6 @@
 .env
 .vscode
 **/.pytest_cache
+**/submissions
 cache
+google-foobar

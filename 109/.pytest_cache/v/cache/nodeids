@@ -1,0 +1,15 @@
+[
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Monday-Go train Chest+biceps]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[monday-Go train Chest+biceps]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Tuesday-Go train Back+triceps]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[TuEsdAy-Go train Back+triceps]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Wednesday-Go train Core]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[wednesdaY-Go train Core]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Thursday-Go train Legs]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Friday-Go train Shoulders]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Saturday-Chill out!]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[Sunday-Chill out!]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[sundAy-Chill out!]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[nonsense-Not a valid day]",
+  "test_workouts.py::test_get_workout_valid_case_insensitive_dict_lookups[monday2-Not a valid day]"
+]

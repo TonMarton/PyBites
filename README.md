@@ -2,7 +2,7 @@
 
 As I am practicing Python on [codechalleng.es](https://codechalleng.es) - check out my profile there: [tonmarton](https://codechalleng.es/profiles/tonmarton) - I need this repo to solve challenges - called Pybites - locally.
 
-Below you can find how I set up my local environment and worked on Pybites - I have not written any of the automations that make this easier, I just documented them for myself.
+Below you can find how I set up my local environment and worked on Pybites.
 
 # set-up
 

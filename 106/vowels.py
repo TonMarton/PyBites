@@ -27,9 +27,10 @@ Namespaces are one honking great idea -- let's do more of those!
 
 VOWELS = 'aeiou'
 
-
 def strip_vowels(text: Optional[str] = TEXT) -> Tuple[str, int]:
     '''
+    #for loop solution:
+
     count = 0
     textList = list(text)
     for i, c in enumerate(textList):
@@ -39,4 +40,6 @@ def strip_vowels(text: Optional[str] = TEXT) -> Tuple[str, int]:
             count += 1
     return (''.join(textList), count)
     '''
-    return re.subn('[{VOWELS}]', '*', text)
+    ALL_VOWELS = VOWELS + VOWELS.upper()
+    print(ALL_VOWELS)
+    return re.subn('[aeiouAEIOU]', "*", text)

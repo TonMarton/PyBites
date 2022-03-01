@@ -1,0 +1,8 @@
+[
+  "test_regex.py::test_extract_course_times_default_arg",
+  "test_regex.py::test_extract_course_times_other_course_input",
+  "test_regex.py::test_get_all_hashtags_and_links_default_arg",
+  "test_regex.py::test_get_all_hashtags_and_links_other_tweet",
+  "test_regex.py::test_match_first_paragraph_default_arg",
+  "test_regex.py::test_match_first_paragraph_other_html"
+]

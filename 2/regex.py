@@ -40,5 +40,5 @@ def match_first_paragraph(html=HTML):
        'pybites != greedy' (= content of first paragraph).
        Return this string.
    """
-   return re.match(r'<p>(.*?)</p>', html).group(1)
+   return re.findall(r'<p>(.*?)</p>', html)[0]
    

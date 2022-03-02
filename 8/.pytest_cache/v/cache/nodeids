@@ -1,0 +1,7 @@
+[
+  "test_rotate.py::test_small_rotate",
+  "test_rotate.py::test_bigger_rotation_of_positive_n",
+  "test_rotate.py::test_bigger_rotation_of_negative_n",
+  "test_rotate.py::test_rotation_of_n_same_as_len_str",
+  "test_rotate.py::test_rotation_of_n_bigger_than_string"
+]

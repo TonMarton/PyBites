@@ -1,0 +1,8 @@
+[
+  "test_enumerate_data.py::test_enumerate_names_countries[1. Julian     Australia]",
+  "test_enumerate_data.py::test_enumerate_names_countries[2. Bob        Spain]",
+  "test_enumerate_data.py::test_enumerate_names_countries[3. PyBites    Global]",
+  "test_enumerate_data.py::test_enumerate_names_countries[4. Dante      Argentina]",
+  "test_enumerate_data.py::test_enumerate_names_countries[5. Martin     USA]",
+  "test_enumerate_data.py::test_enumerate_names_countries[6. Rodolfo    Mexico]"
+]

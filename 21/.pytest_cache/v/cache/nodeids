@@ -1,0 +1,7 @@
+[
+  "test_cars.py::test_get_all_jeeps",
+  "test_cars.py::test_get_first_model_each_manufacturer",
+  "test_cars.py::test_get_all_matching_models_default_grep",
+  "test_cars.py::test_get_all_matching_models_different_grep",
+  "test_cars.py::test_sort_dict_alphabetically"
+]

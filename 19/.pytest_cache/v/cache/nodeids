@@ -1,0 +1,5 @@
+[
+  "test_simple_property.py::test_promo_expired",
+  "test_simple_property.py::test_promo_not_expired",
+  "test_simple_property.py::test_uses_property"
+]

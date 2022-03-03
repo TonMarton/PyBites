@@ -1,0 +1,4 @@
+[
+  "test_exclude.py::test_filter_bites_default_arguments",
+  "test_exclude.py::test_filter_bites_different_outputs"
+]

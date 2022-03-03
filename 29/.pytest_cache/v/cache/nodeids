@@ -1,0 +1,8 @@
+[
+  "test_wrong_char.py::test_wrong_char[arg0-2]",
+  "test_wrong_char.py::test_wrong_char[arg1-4]",
+  "test_wrong_char.py::test_wrong_char[arg2-1]",
+  "test_wrong_char.py::test_wrong_char[arg3-5]",
+  "test_wrong_char.py::test_wrong_char[arg4-8]",
+  "test_wrong_char.py::test_wrong_char[arg5-0]"
+]

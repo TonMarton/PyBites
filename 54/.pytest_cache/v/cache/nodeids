@@ -1,0 +1,4 @@
+[
+  "test_poem.py::test_shakespeare_text",
+  "test_poem.py::test_rosetti_poem"
+]

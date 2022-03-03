@@ -25,8 +25,4 @@ def get_movies():
 def get_movie_longest_runtime():
     """Call get_tree again and return the movie title for the movie with the longest
        runtime in minutes, for latter consider adding a _get_runtime helper"""
-    runtimes = [int(movie.get('runtime').split()[0]) for movie in get_tree()]
-    index_longest_runtime = runtimes.index(max(runtimes))
-
-
-    return get_movies()[index_longest_runtime]
+    return max(get_tree(), key=lambda movie: movie.attrib['runtime']).attrib['title']

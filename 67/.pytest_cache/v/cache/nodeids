@@ -1,0 +1,4 @@
+[
+  "test_calc_dts.py::test_get_hundred_days_end_date",
+  "test_calc_dts.py::test_get_days_till_pycon_meetup"
+]

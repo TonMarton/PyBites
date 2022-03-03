@@ -1,0 +1,5 @@
+[
+  "test_license.py::test_gen_default_key",
+  "test_license.py::test_gen_shorter_key",
+  "test_license.py::test_gen_longer_key"
+]

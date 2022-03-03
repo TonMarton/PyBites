@@ -1,0 +1,8 @@
+[
+  "test_kwargs.py::test_no_arguments",
+  "test_kwargs.py::test_one_positional_arg",
+  "test_kwargs.py::test_wrong_single_kw",
+  "test_kwargs.py::test_wrong_additional_kw",
+  "test_kwargs.py::test_correct_kw_second_default",
+  "test_kwargs.py::test_two_correct_kws"
+]

@@ -1,0 +1,23 @@
+[
+  "test_fifo.py::test_queue_default_arg[0-expected_result0]",
+  "test_fifo.py::test_queue_default_arg[1-expected_result1]",
+  "test_fifo.py::test_queue_default_arg[2-expected_result2]",
+  "test_fifo.py::test_queue_default_arg[3-expected_result3]",
+  "test_fifo.py::test_queue_default_arg[4-expected_result4]",
+  "test_fifo.py::test_queue_default_arg[5-expected_result5]",
+  "test_fifo.py::test_queue_default_arg[6-expected_result6]",
+  "test_fifo.py::test_queue_less_items[0-expected_result0]",
+  "test_fifo.py::test_queue_less_items[1-expected_result1]",
+  "test_fifo.py::test_queue_less_items[2-expected_result2]",
+  "test_fifo.py::test_queue_less_items[3-expected_result3]",
+  "test_fifo.py::test_queue_less_items[4-expected_result4]",
+  "test_fifo.py::test_queue_less_items[5-expected_result5]",
+  "test_fifo.py::test_queue_less_items[6-expected_result6]",
+  "test_fifo.py::test_queue_more_items[0-expected_result0]",
+  "test_fifo.py::test_queue_more_items[1-expected_result1]",
+  "test_fifo.py::test_queue_more_items[2-expected_result2]",
+  "test_fifo.py::test_queue_more_items[3-expected_result3]",
+  "test_fifo.py::test_queue_more_items[4-expected_result4]",
+  "test_fifo.py::test_queue_more_items[5-expected_result5]",
+  "test_fifo.py::test_queue_more_items[6-expected_result6]"
+]

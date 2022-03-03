@@ -9,7 +9,7 @@ Below you can find how I set up my local environment and worked on Pybites.
 With solving PyBites you receive points depending on the difficulty of the bites. These points get you badges - milestones. Here you can see my current badge: 
 | belt image |  belt name  | personal certificate link |
 | - | - | - | 
-| <img src="https://codechalleng.es/static/img/honors/white.eb2663f01fb1.png" width=60%> | **white belt** | [cert link](https://pybites-certificates.s3.amazonaws.com/m%C3%A1rton_nagy_9963c9e6-7e48-44c9-bcc3-c08ab8639181.png) |   
+| <img src="https://codechalleng.es/static/img/honors/yellow.234d8370bd62.png" width=60%> | **yellow belt** | [cert link](https://codechalleng.es/badge/a20cb922-bbca-4b34-adeb-308bf8a83bab) |   
 
 # set-up
 
@@ -37,14 +37,14 @@ Using pipenv, since the environment variables can be supplied with a .env file t
 
         eatlocal download <bite number>
 
-- write a solution in the ```<bit name>.py```:
+- write a solution in the ```<bite name>.py```:
 - run tests:
 
         pytest
 
 - submit solution with ```eatlocal```:
 
-        eatlocal submit <bit number>
+        eatlocal submit <bite number>
 
 
 

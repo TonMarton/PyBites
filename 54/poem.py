@@ -17,6 +17,8 @@ def print_hanging_indents(poem: str):
         poem += line + '\n'
     print(poem)
     
+# this was the real trick: poem.split("\n\n")
+
 if __name__ == '__main__':
     rosetti_unformatted = """
                         Remember me when I am gone away,

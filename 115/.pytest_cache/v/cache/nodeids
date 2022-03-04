@@ -1,0 +1,9 @@
+[
+  "test_indents.py::test_count_indents[string  -0]",
+  "test_indents.py::test_count_indents[  string-2]",
+  "test_indents.py::test_count_indents[    string-4]",
+  "test_indents.py::test_count_indents[            string-12]",
+  "test_indents.py::test_count_indents[\\t\\tstring-0]",
+  "test_indents.py::test_count_indents[  str  ing-2]",
+  "test_indents.py::test_count_indents[  str  -2]"
+]

@@ -1,0 +1,6 @@
+[
+  "test_wc.py::test_wc[Hello world-1 2 11]",
+  "test_wc.py::test_wc[Hello world\\nKeep calm and code in Python-2 8 40]",
+  "test_wc.py::test_wc[Hello world\\nKeep calm and code in Python\\nHave a nice weekend-3 12 60]",
+  "test_wc.py::test_wc_on_real_py_file"
+]

@@ -1,0 +1,7 @@
+[
+  "test_clean.py::test_remove_punctuation[Hello, I am Tim.-Hello I am Tim]",
+  "test_clean.py::test_remove_punctuation[;String. with. punctuation characters!-String with punctuation characters]",
+  "test_clean.py::test_remove_punctuation[Watch out!!!-Watch out]",
+  "test_clean.py::test_remove_punctuation[Spaces - should - work the same, yes?-Spaces  should  work the same yes]",
+  "test_clean.py::test_remove_punctuation[Some other (chars) |:-^, let's delete them-Some other chars  lets delete them]"
+]

@@ -1,0 +1,6 @@
+[
+  "test_merge.py::test_regular_name",
+  "test_merge.py::test_case_insensitive_lookup",
+  "test_merge.py::test_name_not_found",
+  "test_merge.py::test_duplicate_name"
+]

@@ -1,0 +1,7 @@
+[
+  "test_chessboard.py::test_create_chessboard[2]",
+  "test_chessboard.py::test_create_chessboard[4]",
+  "test_chessboard.py::test_create_chessboard[8]",
+  "test_chessboard.py::test_create_chessboard[16]",
+  "test_chessboard.py::test_create_chessboard[32]"
+]

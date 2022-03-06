@@ -1,0 +1,17 @@
+[
+  "test_names.py::test_return_type",
+  "test_names.py::test_return_dict_len",
+  "test_names.py::test_grouping1_return[BR-expected0]",
+  "test_names.py::test_grouping1_return[CN-expected1]",
+  "test_names.py::test_grouping1_return[ID-expected2]",
+  "test_names.py::test_grouping1_return[PL-expected3]",
+  "test_names.py::test_grouping1_return[RU-expected4]",
+  "test_names.py::test_grouping1_return[SE-expected5]",
+  "test_names.py::test_grouping1_return[TD-expected6]",
+  "test_names.py::test_grouping2_return[AF-expected0]",
+  "test_names.py::test_grouping2_return[CO-expected1]",
+  "test_names.py::test_grouping2_return[CZ-expected2]",
+  "test_names.py::test_grouping2_return[ID-expected3]",
+  "test_names.py::test_grouping2_return[IR-expected4]",
+  "test_names.py::test_grouping2_return[NL-expected5]"
+]

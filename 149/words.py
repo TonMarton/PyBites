@@ -5,4 +5,4 @@ def sort_words_case_insensitively(words: list):
        (1995, 19ab = numbers / Happy, happy4you = strings, hence for
         numbers you only need to check the first char of the word)
     """
-    return sorted(words, key=lambda word: 'zzzzzz' + word.lower() if word[0].isnumeric() else word.lower())
+    return sorted(words, key=lambda word: (word[0].isnumeric() ,word.lower()))

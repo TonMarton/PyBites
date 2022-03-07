@@ -1,0 +1,5 @@
+[
+  "test_record.py::test_record_unbeaten",
+  "test_record.py::test_record_got_beaten",
+  "test_record.py::test_record_got_beaten_negative_values"
+]

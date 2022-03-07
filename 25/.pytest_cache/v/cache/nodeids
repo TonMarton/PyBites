@@ -1,0 +1,9 @@
+[
+  "test_promo.py::test_bites_not_done_start",
+  "test_promo.py::test_new_bite",
+  "test_promo.py::test_random_is_used",
+  "test_promo.py::test_pick_random_bite_returns_not_done_bite",
+  "test_promo.py::test_internal_data_structures",
+  "test_promo.py::test_raise_exception_if_no_more_bites",
+  "test_promo.py::test_work_with_2_users_and_promo_instances"
+]

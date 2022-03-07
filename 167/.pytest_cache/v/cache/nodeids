@@ -1,0 +1,6 @@
+[
+  "test_user.py::test_bob_lowercase",
+  "test_user.py::test_julian_mixed_case",
+  "test_user.py::test_tania_title_name",
+  "test_user.py::test_noah_use_dunder_in_repr"
+]

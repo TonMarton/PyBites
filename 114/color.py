@@ -24,7 +24,7 @@ class Color:
     def __init__(self, color: str):
         self.color: str = color
         print(COLOR_NAMES)
-        self.rgb: tuple = COLOR_NAMES[color.upper()] if color.upper() in COLOR_NAMES else None
+        self.rgb: tuple = COLOR_NAMES.get(color.upper(), None)
 
     @staticmethod
     def hex2rgb(hex: str) -> tuple:
@@ -41,9 +41,9 @@ class Color:
     def rgb2hex(rgb: tuple) -> str:
         """Class method that converts an rgb value into a hex one"""
         try:
-            if len(rgb) != 3 or any(color > 255 or color < 0 for color in rgb):
+            if len(rgb) != 3 or any(not(0 <= color <= 255) for color in rgb):
                 raise ValueError
-            _hex = ''.join(['#'] + [hex(code)[2:] if len(hex(code)) == 4 else hex(code)[2:] + '0' for code in rgb])
+            _hex = ''.join(['#'] + [f'{code:02x}' for code in rgb])
             return _hex
         except ValueError:
             raise ValueError('rgb2hex received invalid parameter')

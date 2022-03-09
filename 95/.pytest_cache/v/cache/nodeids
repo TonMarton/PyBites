@@ -1,0 +1,6 @@
+[
+  "test_bdaydict.py::test_2_bdays_different_dates_not_print_msg",
+  "test_bdaydict.py::test_another_bday_same_yymmdd_print_msg",
+  "test_bdaydict.py::test_another_bday_same_yymm_diff_day_not_print_msg",
+  "test_bdaydict.py::test_another_bday_same_mmdd_diff_year_print_msg"
+]

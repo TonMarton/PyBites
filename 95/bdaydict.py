@@ -13,5 +13,5 @@ class BirthdayDict(dict):
             if v.month == birthday.month and v.day == birthday.day:
                 print(MSG.format(name))
                 break
-        super(BirthdayDict, self).__setitem__(name, birthday)
+        super().__setitem__(name, birthday)
         

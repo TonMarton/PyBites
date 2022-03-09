@@ -1,0 +1,4 @@
+[
+  "test_zoo.py::test_zoo_5_animals",
+  "test_zoo.py::test_animal_instance_str"
+]

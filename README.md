@@ -9,7 +9,7 @@ Below you can find how I set up my local environment and worked on Pybites.
 With solving PyBites you receive points depending on the difficulty of the bites. These points get you badges - milestones. Here you can see my current badge: 
 | belt image |  belt name  | personal certificate link |
 | - | - | - | 
-| <img src="https://codechalleng.es/static/img/honors/yellow.234d8370bd62.png" width=60%> | **yellow belt** | [cert link](https://codechalleng.es/badge/a20cb922-bbca-4b34-adeb-308bf8a83bab) |   
+| <img src="https://codechalleng.es/static/img/honors/orange.73422678956e.png" width=60%> | **orange belt** | [cert link](https://codechalleng.es/badge/9e752512-2f4f-48eb-974a-c7f11ff3bb99) |   
 
 # set-up
 

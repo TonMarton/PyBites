@@ -1,0 +1,10 @@
+[
+  "test_dc.py::test_type_annotations",
+  "test_dc.py::test_getting_str_for_free",
+  "test_dc.py::test_default_level_arg_first_bite",
+  "test_dc.py::test_attribute_access_second_bite",
+  "test_dc.py::test_my_data_class_is_mutable",
+  "test_dc.py::test_can_order_bites",
+  "test_dc.py::test_data_class_are_not_hashable",
+  "test_dc.py::test_data_class_can_only_be_unpacked_when_casted_to_tuple"
+]

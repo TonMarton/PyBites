@@ -1,0 +1,15 @@
+[
+  "test_person.py::test_string_repr_person",
+  "test_person.py::test_string_repr_dad",
+  "test_person.py::test_string_repr_mom",
+  "test_person.py::test_string_repr_child",
+  "test_person.py::test_mro_of_person",
+  "test_person.py::test_mro_of_dad",
+  "test_person.py::test_mro_of_mom",
+  "test_person.py::test_mro_of_child",
+  "test_person.py::test_subclass_person",
+  "test_person.py::test_subclass_dad",
+  "test_person.py::test_subclass_mom",
+  "test_person.py::test_subclass_child",
+  "test_person.py::test_use_inheritance"
+]

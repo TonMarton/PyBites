@@ -1,0 +1,14 @@
+[
+  "test_constructors.py::test_create_domain_from_name",
+  "test_constructors.py::test_invalid_domain",
+  "test_constructors.py::test_create_domain_from_url[https://pybit.es-pybit.es]",
+  "test_constructors.py::test_create_domain_from_url[http://pybit.es-pybit.es]",
+  "test_constructors.py::test_create_domain_from_url[https://pybit.es/get-python-source.html-pybit.es]",
+  "test_constructors.py::test_create_domain_from_url[https://nu.nl-nu.nl]",
+  "test_constructors.py::test_create_domain_from_url[https://python.org/-python.org]",
+  "test_constructors.py::test_create_domain_from_url[https://stackoverflow.com/a/14836456-stackoverflow.com]",
+  "test_constructors.py::test_create_domain_from_email[bob@pybit.es-pybit.es]",
+  "test_constructors.py::test_create_domain_from_email[bob@gmail.com-gmail.com]",
+  "test_constructors.py::test_create_domain_from_email[tim@example.net-example.net]",
+  "test_constructors.py::test_create_domain_from_email[sara@hotmail.co.uk-hotmail.co.uk]"
+]

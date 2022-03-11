@@ -1,0 +1,7 @@
+[
+  "test_account.py::test_account_balance",
+  "test_account.py::test_account_comparison",
+  "test_account.py::test_account_len",
+  "test_account.py::test_account_indexing_iter",
+  "test_account.py::test_account_str"
+]

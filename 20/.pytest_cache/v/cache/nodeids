@@ -1,0 +1,5 @@
+[
+  "test_account.py::test_balance",
+  "test_account.py::test_without_contextman_balance_negative",
+  "test_account.py::test_with_contextman_performs_rollback"
+]

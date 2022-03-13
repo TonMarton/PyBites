@@ -1,0 +1,6 @@
+[
+  "test_challenge.py::test_should_not_instantiate_abc",
+  "test_challenge.py::test_baseclass_methods_are_abstract",
+  "test_challenge.py::test_super_and_abst_method_implementation",
+  "test_challenge.py::test_super_and_abst_property_implementation"
+]

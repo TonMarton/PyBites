@@ -1,0 +1,7 @@
+[
+  "test_matmul.py::test_matmul",
+  "test_matmul.py::test_rmatmul",
+  "test_matmul.py::test_imatmul",
+  "test_matmul.py::test_imatmul_other_way_around",
+  "test_matmul.py::test_repr_output"
+]

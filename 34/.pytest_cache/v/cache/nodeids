@@ -1,0 +1,6 @@
+[
+  "test_karma.py::test_init",
+  "test_karma.py::test_scores_and_points",
+  "test_karma.py::test_fans_property",
+  "test_karma.py::test_str_dunder"
+]

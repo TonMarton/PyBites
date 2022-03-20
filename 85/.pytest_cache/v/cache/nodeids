@@ -1,0 +1,10 @@
+[
+  "test_ninja.py::test_initial_state",
+  "test_ninja.py::test_white_belt",
+  "test_ninja.py::test_new_score_same_belt_no_congrats_msg",
+  "test_ninja.py::test_new_score_new_belt",
+  "test_ninja.py::test_higher_belt",
+  "test_ninja.py::test_gt_max_score_highest_belt",
+  "test_ninja.py::test_new_score_should_be_int",
+  "test_ninja.py::test_new_score_should_be_higher"
+]

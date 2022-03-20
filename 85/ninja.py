@@ -29,13 +29,14 @@ class NinjaBelt:
             raise ValueError(f'Cannot lower score')
         
         self._score = new_score
-
+        print(f'Set new score to 49')
         new_belt = self._get_belt(new_score)
         if new_belt is not self._last_earned_belt:
             self._last_earned_belt = new_belt
             print(f'Congrats, you earned {self._score} points obtaining the PyBites Ninja {self._last_earned_belt.title()} Belt')
         else:
             print(f'Set new score to {self._score}')
+        print()
         
     score = property(_get_score, _set_score)
 
@@ -44,4 +45,6 @@ if __name__ == '__main__':
     ninja = NinjaBelt(10)
     ninja.score = 49
     ninja._last_earned_belt
+    
+    
     

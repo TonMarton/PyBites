@@ -1,0 +1,12 @@
+[
+  "test_intlist.py::test_mean_median_start_first_instance",
+  "test_intlist.py::test_append_and_new_stats_first_instance",
+  "test_intlist.py::test_mean_median_start_second_instance",
+  "test_intlist.py::test_append_and_new_stats_second_instance",
+  "test_intlist.py::test_cannot_append_non_int_values[a]",
+  "test_intlist.py::test_cannot_append_non_int_values[arg1]",
+  "test_intlist.py::test_cannot_append_non_int_values[arg2]",
+  "test_intlist.py::test_cannot_append_non_int_values_via_overloading",
+  "test_intlist.py::test_cannot_append_non_int_values_via_inplace_overloading",
+  "test_intlist.py::test_can_append_list_of_ints"
+]

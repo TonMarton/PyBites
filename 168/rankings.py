@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from typing import List, Tuple
+from typing import List
 from heapq import heappop, heappush, nsmallest, nlargest
 
 bites: List[int] = [283, 282, 281, 263, 255, 230, 216, 204, 197, 196, 195]
@@ -29,7 +29,7 @@ class Ninja:
     print out in the following format: [469] bob
     """
     name: str = field(compare=False)
-    bites: int
+    bites: int = field()
 
     def __str__(self) -> str:
         return f'[{self.bites}] {self.name}'
@@ -51,7 +51,7 @@ class Rankings:
     returns List containing tuples of the paired up Ninja objects
     """
 
-    ninjas = []
+    ninjas: list = field(default_factory=list)
 
     def add(self, ninja):
         heappush(self.ninjas, ninja)
@@ -71,14 +71,3 @@ class Rankings:
 
     def pair_up(self, n: int = 3):
         return [(h, l) for h, l in zip(nlargest(n, self.ninjas), nsmallest(n, self.ninjas))]
-
-
-if __name__ == '__main__':
-    ninjas = [Ninja(*ninja) for ninja in zip(names, bites)]
-    rankings = Rankings()
-    for ninja in ninjas:
-        rankings.add(ninja)
-    actual = rankings.dump()
-    expected = Ninja(name="sam", bites=195)
-    
-

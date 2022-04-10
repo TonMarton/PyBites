@@ -1,8 +1,1 @@
-{
-  "test_rankings.py::test_adding_a_ninja": true,
-  "test_rankings.py::test_dumping_lowest_ranking_fist_ninjas": true,
-  "test_rankings.py::test_lowest_ranking_after_adding_more_ninjas": true,
-  "test_rankings.py::test_lowest_ranking_with_arg": true,
-  "test_rankings.py::test_pairing_with_count_arg": true,
-  "test_rankings.py::test_pairing_with_no_arg": true
-}
+{}

@@ -1,0 +1,14 @@
+[
+  "test_rankings.py::test_ninja_class_empty_init_raises_exception",
+  "test_rankings.py::test_ninja_class_and_membership",
+  "test_rankings.py::test_ninja_str_output",
+  "test_rankings.py::test_first_ninja_ranks_in_object",
+  "test_rankings.py::test_dumping_lowest_ranking_fist_ninjas",
+  "test_rankings.py::test_highest_ranking_no_arg",
+  "test_rankings.py::test_lowest_ranking_no_arg",
+  "test_rankings.py::test_lowest_ranking_with_arg",
+  "test_rankings.py::test_adding_a_ninja",
+  "test_rankings.py::test_lowest_ranking_after_adding_more_ninjas",
+  "test_rankings.py::test_pairing_with_no_arg",
+  "test_rankings.py::test_pairing_with_count_arg"
+]
